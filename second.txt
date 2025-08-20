@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Second HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to My Second HTML Page</h1>
+    <p>This is a paragraph of text on my second HTML page.</p>
+</body>
+</html>
